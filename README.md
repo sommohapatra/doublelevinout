@@ -1,4 +1,4 @@
-(adapted from Quantopian/Quantlandian)
+(taken from Quantopian/Quantlandian)
 
 Intuitively, it might be possible to generate excess returns via cleverly timed entries and exits in and out of the equity market. This algo may be a first step toward developing a strategy that derives optimal moves in an out of the market on the basis of early indicators of equity market downturns. At the very least, the algo could start an interesting discussion regarding the sense and nonsense of trying to time market entry and exit in this way. Either way, your contribution is highly appreciated.
 
